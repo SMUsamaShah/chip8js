@@ -1,0 +1,4 @@
+*.dmp
+roms/
+others/
+.vscode/
