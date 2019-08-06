@@ -1,4 +1,6 @@
-# chip8js
+# chip8js 
+[![HitCount](http://hits.dwyl.io/smusamashah/chip8js.svg)](http://hits.dwyl.io/smusamashah/chip8js)
+
 Yet another chip-8 emulator in JavaScript
 
 ## Demo
